@@ -1,0 +1,445 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+.backimg {
+  background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/83e8c151-107d-4e8f-b95a-d2ba99d49bb9/f1ac72e1-5adc-4caf-bceb-e8ec775414ac/IN-en-20230213-popsignuptwoweeks-perspective_alpha_website_medium.jpg");
+  width: 100%;
+  height: 670px;
+  box-shadow: inset 0 0 10000px 0px #000;
+}
+header {
+  border-bottom: 8px solid #222;
+}
+
+.top {
+  position: relative;
+}
+
+.sign button {
+  background-color: #e50914;
+  color: white;
+  position: absolute;
+  right: 4%;
+  top: 0%;
+  margin-top: 20px;
+  font-size: 15px;
+  padding: 10px;
+  border-radius: 5px;
+  width: 80px;
+}
+
+.lang select {
+  position: absolute;
+  right: 10%;
+  top: 0%;
+  background-color: #000;
+  color: white;
+  margin-top: 20px;
+  font-size: 15px;
+  padding: 8px;
+  border-radius: 3px;
+  width: 90px;
+}
+
+.nav img {
+  width: 150px;
+  padding-left: 40px;
+}
+
+.nav1 {
+  text-align: center;
+  color: white;
+}
+
+.nav1 h1 {
+  margin-top: 10px;
+  padding-top: 150px;
+  font-size: 60px;
+  font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu,
+    sans-serif;
+}
+
+hr {
+  background-color: rgb(22, 20, 20);
+  border: 5px;
+  height: 10px;
+}
+
+.nav1 h2 {
+  margin-top: 10px;
+  font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu,
+    sans-serif;
+}
+
+.nav1 h3 {
+  margin-top: 10px;
+}
+
+.nav2 {
+  position: relative;
+}
+.nav2 input {
+  margin-top: 10px;
+  width: 600px;
+  height: 60px;
+  border: 1px solid black;
+  left: 30%;
+  position: absolute;
+}
+
+.nav2 button {
+  background-color: #e50914;
+  color: white;
+  border: 1px solid black;
+  width: 150px;
+  height: 62px;
+  right: 32%;
+  margin-top: 10px;
+  position: absolute;
+  font-size: x-large;
+}
+
+.container1 {
+  margin-top: -18px;
+  background-color: black;
+  color: white;
+  height: 380px;
+  font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu,
+    sans-serif;
+  position: relative;
+}
+
+.left1 {
+  width: 370px;
+  position: absolute;
+  padding-left: 470px;
+  padding-top: 80px;
+}
+.left1 h1 {
+  font-size: 45px;
+}
+
+.right1 {
+  position: absolute;
+  right: 0%;
+  padding-right: 450px;
+}
+
+.container2 {
+  background-color: black;
+  color: white;
+  height: 380px;
+  font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu,
+    sans-serif;
+}
+
+.left2 {
+  width: 370px;
+  position: absolute;
+  padding-right: 470px;
+  padding-top: 80px;
+  right: 0%;
+}
+.left2 h1 {
+  font-size: 45px;
+}
+
+.right2 {
+  position: absolute;
+  padding-left: 470px;
+}
+
+.container3 {
+  background-color: black;
+  color: white;
+  height: 380px;
+  font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu,
+    sans-serif;
+}
+
+.left3 {
+  width: 370px;
+  position: absolute;
+  padding-left: 470px;
+  padding-top: 80px;
+}
+.left3 h1 {
+  font-size: 45px;
+}
+
+.right3 {
+  position: absolute;
+  right: 0%;
+  padding-right: 470px;
+}
+
+.container4 {
+  background-color: black;
+  color: white;
+  height: 380px;
+  font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu,
+    sans-serif;
+}
+
+.left4 {
+  width: 370px;
+  position: absolute;
+  padding-right: 470px;
+  padding-top: 80px;
+  right: 0%;
+}
+.left4 h1 {
+  font-size: 45px;
+}
+
+.right4 {
+  position: absolute;
+  left: 25%;
+  padding-right: 470px;
+}
+
+.faq {
+  text-align: center;
+  background-color: #000;
+  color: white;
+  height: 800px;
+  padding: 20px;
+}
+
+.ul1 {
+  list-style: none;
+}
+
+/* #faq1 option {
+  background-color: #000;
+  max-width: 500px;
+  overflow: hidden;
+} */
+
+#faq1 {
+  color: white;
+  height: 70px;
+  width: 900px;
+  background: #303030;
+  font-size: 30px;
+  text-align: center;
+  padding: 20px;
+  margin: 2px;
+}
+#faq2 {
+  background: #303030;
+  color: white;
+  height: 70px;
+  width: 900px;
+  font-size: 30px;
+  text-align: center;
+  margin: 2px;
+}
+
+#faq3 {
+  background: #303030;
+  color: white;
+  height: 70px;
+  width: 900px;
+  font-size: 30px;
+  text-align: center;
+  margin: 2px;
+}
+
+#faq4 {
+  background: #303030;
+  color: white;
+  height: 70px;
+  width: 900px;
+  font-size: 30px;
+  text-align: center;
+  margin: 2px;
+}
+
+#faq5 {
+  background: #303030;
+  color: white;
+  height: 70px;
+  width: 900px;
+  font-size: 30px;
+  text-align: center;
+  margin: 2px;
+}
+
+#faq6 {
+  background: #303030;
+  color: white;
+  height: 70px;
+  width: 900px;
+  font-size: 30px;
+  text-align: center;
+  margin: 2px;
+}
+.lastemail {
+  position: relative;
+}
+
+.lastemail input {
+  margin-top: 10px;
+  width: 600px;
+  height: 60px;
+  border: 1px solid black;
+  left: 30%;
+  position: absolute;
+}
+
+.lastemail button {
+  background-color: #e50914;
+  color: white;
+  border: 1px solid black;
+  width: 150px;
+  height: 62px;
+  right: 30%;
+  margin-top: 10px;
+  position: absolute;
+  font-size: x-large;
+}
+
+.ques {
+  background-color: #000;
+  color: #737373;
+  padding-top: 20px;
+  position: relative;
+  height: 400px;
+}
+.ques p {
+  color: #737373;
+  text-decoration: none;
+
+  padding-left: 475px;
+}
+.ques p a {
+  color: #737373;
+  text-decoration: none;
+}
+
+.link a {
+  color: #737373;
+  text-decoration: none;
+}
+
+.a1 {
+  position: absolute;
+  left: 25%;
+  list-style: none;
+}
+.a2 {
+  position: absolute;
+  left: 35%;
+  list-style: none;
+}
+
+.a3 {
+  position: absolute;
+  left: 45%;
+  list-style: none;
+}
+
+.a4 {
+  position: absolute;
+  left: 55%;
+  list-style: none;
+}
+
+.a5 {
+  position: absolute;
+  left: 25%;
+  list-style: none;
+  margin-top: 40px;
+}
+.a6 {
+  position: absolute;
+  left: 35%;
+  list-style: none;
+  margin-top: 40px;
+}
+.a7 {
+  position: absolute;
+  left: 45%;
+  list-style: none;
+  margin-top: 40px;
+}
+.a8 {
+  position: absolute;
+  left: 55%;
+  list-style: none;
+  margin-top: 40px;
+}
+
+.a9 {
+  position: absolute;
+  left: 25%;
+  list-style: none;
+  margin-top: 80px;
+}
+.a10 {
+  position: absolute;
+  left: 35%;
+  list-style: none;
+  margin-top: 80px;
+}
+
+.a11 {
+  position: absolute;
+  left: 45%;
+  list-style: none;
+  margin-top: 80px;
+}
+.a12 {
+  position: absolute;
+  left: 55%;
+  list-style: none;
+  margin-top: 80px;
+}
+
+.a13 {
+  position: absolute;
+  left: 25%;
+  list-style: none;
+  margin-top: 120px;
+}
+.a14 {
+  position: absolute;
+  left: 35%;
+  list-style: none;
+  margin-top: 120px;
+}
+
+.a15 {
+  position: absolute;
+  left: 45%;
+  list-style: none;
+  margin-top: 120px;
+}
+
+.a16 {
+  position: absolute;
+  left: 25%;
+  list-style: none;
+  margin-top: 180px;
+}
+
+.a16 select {
+  position: absolute;
+
+  background-color: #000;
+  color: #999;
+
+  font-size: 15px;
+  padding: 8px;
+  border-radius: 3px;
+  width: 90px;
+}
+.a17 {
+  position: absolute;
+
+  list-style: none;
+  margin-top: 230px;
+}
